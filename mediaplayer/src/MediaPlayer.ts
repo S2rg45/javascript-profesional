@@ -1,5 +1,5 @@
 class MediaPlayer {
-  media: HTMLMediaElement;
+  media: HTMLMediaElement; //elementos nativos tanto de htmlVideo htmlAudio del html 
   plugins: Array<any>;
   container: HTMLElement;
 
